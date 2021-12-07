@@ -1,0 +1,31 @@
+.box {
+  background-color: rgb(128, 128, 128);
+  border: 1px solid rgb(0, 0, 0);
+  margin: 10px;
+}
+.box1 {
+  height: auto;
+  background-color: rgb(91, 137, 189);
+}
+.box2 {
+  height: 250px;
+  background-image: linear-gradient( to right, rgb(40, 153, 87), rgb(255, 255, 0));
+}
+.box3 {
+  height: 250px;
+  background-image: url(../../assets/images/sol.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-weight: 700;
+  p {
+    vertical-align: middle;
+  }
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}

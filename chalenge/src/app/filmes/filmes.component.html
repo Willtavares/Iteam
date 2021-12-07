@@ -1,0 +1,22 @@
+<div>
+
+<table>
+  <tr>
+    <th scope="col">Imagem</th>
+    <th scope="col">Nome</th>
+    <th scope="col">Ano</th>
+    <th scope="col">Genero</th>
+    <th scope="col">Descrição</th>
+  </tr>
+  <tr *ngFor="let film of filme">
+    <td>
+      <img [src]="film.poster">
+    </td>
+    <td><p>{{film.nome}}</p></td>
+    <td>{{film.ano}}</td>
+    <td>{{film.genero}}</td>
+    <td>{{film.descricao}}</td>
+  </tr>
+</table>
+
+</div>

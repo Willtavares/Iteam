@@ -1,0 +1,44 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Titanic",
+      "ano": 1997,
+      "genero": "Romance",
+      "descricao": "Titanic é um filme épico de romance e drama norte-americano de 1997, escrito, dirigido, co-produzido e co-editado por James Cameron. É uma história de ficção do naufrágio real do RMS Titanic, estrelando Leonardo DiCaprio como Jack Dawson, e Kate Winslet como Rose DeWitt Bukater, membros de diferentes classes sociais que se apaixonam durante a fatídica viagem inaugural no navio saindo de Southampton para Nova York em 15 de abril de 1912",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/2/22/Titanic_poster.jpg"
+    },
+        {
+      "id": 2,
+      "nome": "Gladiador",
+      "ano": 2000,
+      "genero": "Drama",
+      "descricao": "Estrelado por Russell Crowe, Joaquin Phoenix, Connie Nielsen, Ralf Möller, Oliver Reed, Djimon Hounsou, Derek Jacobi, John Shrapnel e Richard Harris, Gladiator foi distribuído pela Dreamworks SKG somente para a América do Norte, enquanto a Universal Pictures distribuiu mundialmente. Crowe interpreta o leal general Maximus Decimus Meridius, chamado de Espanhol no filme, que é traído quando o ambicioso filho do imperador, Cómodo, mata seu pai e toma o trono. Reduzido a um escravo, Máximo ascende através das lutas de gladiadores para vingar a morte de sua família e do antigo imperador.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/4/44/GladiadorPoster.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Velozes e Furiosos",
+      "ano": 2009,
+      "genero": "Ação",
+      "descricao": "Cinco anos após deixar Los Angeles, Dominic Toretto (Vin Diesel) e sua nova equipe, Letty (Michelle Rodriguez), Teddy (Tego Calderón), Omar Santos (Don Omar), Cara Mirtha (Mirtha Michelle) e Han Lue (Sung Kang), estão roubando tanques de combustível na República Dominicana. Dominic começa a suspeitar das investigações do FBI e deixa Letty com Mia Toretto (Jordana Brewster), a fim de protegê-la do perigo. Várias semanas depois, na Cidade do Panamá, Dominic recebe um telefonema de Mia, dizendo que Letty havia sofrido um acidente de carro, e logo após isso, foi assassinada por Fenix Calderon (Laz Alonso). Dominic volta para Los Angeles para o velório de Letty (onde teve de ficar escondido por causa da polícia), e a noite, ele e Mia vão ao local do acidente de Letty. Dominic encontra vestígios de nitrometano. Ele então vai ao encontro do mecânico para força-lo a lhe dar o nome de David Park (Ron Yuan), o homem que utilizou o nitrometano.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/8/8f/Fast_and_Furious_Poster.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Chappie",
+      "ano": 2015,
+      "genero": "Ficção Científica",
+      "descricao": "Em um futuro próximo, uma opressiva força policial mecanizada é encarregada de patrulhar as ruas e controlar o crime em Joanesburgo, África do Sul. Um dos androides da força policial é roubado e reprogramado com o intuito de ser utilizado como arma pelos criminosos. Ao ser reprogramado, o androide se torna Chappie, o primeiro robô com capacidade de pensar e sentir por si mesmo. Isso faz com que forças poderosas e destrutivas comecem a ver Chappie como uma ameaça para a humanidade e para a ordem pública, e elas farão de tudo para garantir que Chappie seja destruído.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/7/71/Chappie_poster.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "Brinquedo Assassino 2",
+      "ano": 1990,
+      "genero": "Terror",
+      "descricao": "Dois anos após a morte de Chucky, os restos do boneco são recuperados e remontados pela Play Pals Corporation, a fabricante dos bonecos Good Guy, para tranquilizar seus acionistas após a publicidade negativa dos assassinatos relacionados ao brinquedo. Durante o processo ocorre uma oscilação de energia e um dos trabalhadores da linha de montagem é morto por eletrocussão; Sullivan, o diretor executivo da empresa, ordena seu assistente Mattson a encobrir o acidente e se desfazer de Chucky, sem saber que o boneco foi ressuscitado pelo ocorrido.",
+      "poster": "https://upload.wikimedia.org/wikipedia/pt/9/97/Child%27s_Play_2.jpg"
+    }
+  ]
+}
